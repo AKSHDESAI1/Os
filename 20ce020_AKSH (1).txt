@@ -1,0 +1,295 @@
+    1  passw
+    2  passwd
+    3  Date
+    4  date
+    5  hostname
+    6  arch 
+    7  uname-a
+    8  uname -a
+    9  unam
+   10  uname
+   11  help
+   12  help cd
+   13  man
+   14  man man
+   15  man ls
+   16  date
+   17  whoami
+   18  who
+   19  date
+   20  id
+   21  echo $SHELL
+   22  clear
+   23  cal
+   24  cal 7 2022
+   25  bc
+   26  hisory
+   27  history
+   28  date
+   29  mkdir aksh
+   30  ls
+   31  dir
+   32  cd aksh
+   33  cd ..
+   34  copy null > a.html
+   35  history
+   36  pwd
+   37  date
+   38  pwd
+   39  ls
+   40  cd aksh
+   41  cd ..
+   42  g edit
+   43  gedit
+   44  vi abc.txt
+   45  dir
+   46  history
+   47  date
+   48  ls
+   49  gedit abc.txt
+   50  cat a.txt
+   51  mkdir a
+   52  dir
+   53  rma
+   54  rm a
+   55  ls
+   56  rmdir a
+   57  ls
+   58  history
+   59  date
+   60  history > aksh1.txt
+   61  dir
+   62  gedit aksh1.txt
+   63  login
+   64  root
+   65  sudo adduser 20ce020
+   66  sudo adduser 20ce020 --force-badname
+   67  date
+   68  hostname
+   69  arch
+   70  uname -a
+   71  whoami
+   72  who
+   73  id
+   74  echo $SHELL
+   75  echo {con,pre}{sent,fer}{s,ed}
+   76  man ls(you may need to press q to quit)
+   77  man ls('you may need to press q to quit')
+   78  man ls
+   79  man who
+   80  who can tell me why i got devorced
+   81  cal 2000
+   82  cal 9 1752
+   83  bc -l
+   84  echo 5+5|bc -l
+   85  time sleep 5
+   86  history
+   87  cal 4 2020
+   88  cal 4 2002
+   89  sodo adduser 20ce041
+   90  sudo adduser 20ce041
+   91  sudo adduser 20ce041 --force-badname
+   92  log out
+   93  exit
+   94  passwd
+   95  date
+   96  hostname
+   97  arch
+   98  uname-a
+   99  uname_a
+  100  uname -a
+  101  whoami
+  102  who
+  103  id
+  104  echo $shell
+  105  echo {con,pre}{sent,fer}{s,ed}
+  106  uname -v
+  107  hostname
+  108  man ls
+  109  help help ls
+  110  helphelp ls
+  111  man ls
+  112  echo $SHELL
+  113  log in
+  114  'login
+  115  Himani
+  116  sudo login
+  117  ls
+  118  date
+  119  hstname
+  120  echo
+  121  clear
+  122  mkdir
+  123  sudo su
+  124  Date
+  125  date
+  126  hostname
+  127  arch
+  128  uname -a
+  129  whoami
+  130  id
+  131  who
+  132  help
+  133  who
+  134  whoami
+  135  id
+  136  cd
+  137  cd f1
+  138  mkdir newdirectory
+  139  cd newdirectory
+  140  pwd
+  141  cd ..
+  142  rmdir newdirectory
+  143  cd newdirectory
+  144  ls
+  145  echo $SHELL
+  146  echo {con,pre} {sent,fer} {s,ed}
+  147  man ls
+  148  man who
+  149  cal 2000
+  150  cal 2022
+  151  bc-l
+  152  cal 2022
+  153  cal 9 1752
+  154  bc -l
+  155  echo 5+4 | bc -l
+  156  echo 5+4
+  157  yes please
+  158  time sleep 5
+  159  history
+  160  touch hello.txt
+  161  vi world.txt
+  162  mkdir cspit
+  163  cd cspit
+  164  touch hello.txt
+  165  cd ..
+  166  cd desktop
+  167  cd Desktop
+  168  mkdir cspit
+  169  cd cspitce
+  170  cd cspit
+  171  vi hello.txt
+  172  touch world.txt
+  173  cat hi.txt
+  174  cat hello.txt
+  175  cat > hello.txt
+  176  echo hell
+  177  echo hello
+  178  man echo
+  179  ls
+  180  cp world.txt hello.txt
+  181  cat hello.txt
+  182  history
+  183  exit
+  184  hostame
+  185  hostname
+  186  whoami
+  187  mkdir aksh
+  188  ls
+  189  cd aksh/
+  190  mkdir ce
+  191  rmdir ce
+  192  cd ..
+  193  mkdir ce
+  194  cd ce/
+  195  ls
+  196  cat file1.txt
+  197  cat > file1.txt
+  198  ls
+  199  cat > file2.txt
+  200  cp file1.txt file2.txt
+  201  date
+  202  history
+  203  cd..
+  204  cd ..
+  205  ls
+  206  history > aksh2.txt
+  207  ls
+  208  date
+  209  WHOAMI
+  210  whoami
+  211  pwd
+  212  ls
+  213  mkdir cspit
+  214  cd cspit
+  215  ls
+  216  mkdir ce
+  217  cat > ce1.txt
+  218  rm ce1.txt
+  219  lis
+  220  ls
+  221  touch ce1.txt
+  222  ls
+  223  cat > ce1.txt
+  224  cat ce1.txt
+  225  cd ce
+  226  ls
+  227  touch file1.txt file2.txt file3.txt file4.txt file5.txt
+  228  ls
+  229  gedit file1.txt
+  230  ls
+  231  cp file1.txt file2.txt
+  232  gedit file2.txt
+  233  rm file3.txt f3.txt
+  234  mv file3.txt f3.txt
+  235  ls
+  236  cat file3.txt
+  237  touch file3.txt
+  238  mv file3.txt f3.txt
+  239  ls
+  240  wc -l file1.txt
+  241* wc -w file1.
+  242  wc -c file1.txt
+  243  gedit file1.txt
+  244  gedit file2.txt
+  245  cmp file1.txt file2.txt
+  246  grep -f file1.txt file2.txt
+  247  gedit file2.txt
+  248  grep -f file1.txt file2.txt
+  249  diff file1.txt file2.txt
+  250  ls
+  251  vi file4.txt
+  252  gedit file4.txt
+  253  gedit file5.txt
+  254  dif file4.txt file5.txt
+  255  diff file4.txt file5.txt
+  256  date
+  257  cat > file6.txt
+  258  cat > file7.txt
+  259  sort file6.txt 
+  260  sort file7.txt
+  261  comm file6.txt file7.txt
+  262  sort file7.txt >f7.txt
+  263  cat f7.txt
+  264  sort file6.txt > f6.txt
+  265  cat f6.txt
+  266  cp f6.txt file6.txt
+  267  gedit file6.txt
+  268  cp f7.txt file7.txt
+  269  comm file6.txt file7.txt
+  270  cat file6.txt file7.txt > file8.txt
+  271  cat file8.txt
+  272  sort file8.txt | uniq
+  273  cat file8.txt
+  274  sort file8.txt | uniq > f8.txt
+  275  cp f8.txt file8.txt
+  276  gedit file8.txt
+  277  gedit file1.txt
+  278  gedit f1.txt
+  279  cp f1.txt file1.txt
+  280  cat file1.txt
+  281  date
+  282  tr A-Z a-z file1.txt > f1.txt
+  283  tr A-Z a-z < file1.txt > f1.txt
+  284  cat file1.txt
+  285  cat f1.txt
+  286  cp f1.txt file1.txt
+  287  cat file1.txt
+  288  tr -d [:digit"] < file1.txt
+  289  cat file1.txt
+  290  tr -d file1.txt
+  291  tr -d [:digit:] < file1.txt
+  292  cat file8.txt
+  293  head file8.txt
+  294  tail file8.txt
+  295  history > 20ce020_AKSH.txt
